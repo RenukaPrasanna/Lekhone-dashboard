@@ -1,0 +1,426 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.appointment-am7 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.appointment-am7 .rectangle-282-gZF {
+  width: 34.5rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f7f7f7;
+}
+.appointment-am7 .group-170-1-cho {
+  width: 15.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.appointment-am7 .rectangle-303-jnR {
+  width: 97.2rem;
+  height: 84.3rem;
+  position: absolute;
+  left: 37.3rem;
+  top: 9rem;
+  background-color: rgba(91, 197, 166, 0.1099999994);
+  border-radius: 0.8rem;
+}
+.appointment-am7 .ellipse-125-eeV {
+  width: 20.5rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 27rem;
+  top: 9.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.appointment-am7 .ellipse-126-NqP {
+  width: 21.1571rem;
+  height: 20.015rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.appointment-am7 .man-with-mobile-phone-is-shopping-in-online-store-shopping-bag-is-in-supermarket-cart-uqK {
+  width: 35.3rem;
+  height: 27rem;
+  position: absolute;
+  left: 70.8rem;
+  top: 10.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.appointment-am7 .summary-1NZ {
+  width: 11.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 36.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .your-appointment-booking-summary-tx9 {
+  width: 35.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 70.5rem;
+  top: 40.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.5099999905);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .employee-id-assigned-BgM {
+  width: 21.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 46.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .item-0000112-5mj {
+  width: 8.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 83.9rem;
+  top: 49.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .group-263-BZs {
+  width: 12.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 55.8rem;
+}
+.appointment-am7 .group-263-BZs .appointment-Wc9 {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .group-263-BZs .details-EY9 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .group-264-NeM {
+  width: 8.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 65.4rem;
+}
+.appointment-am7 .group-264-NeM .personal-uPP {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .group-264-NeM .details-EwT {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .line-165-nCH {
+  width: 0.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 56.1rem;
+  background-color: #000000;
+}
+.appointment-am7 .line-166-Wty {
+  width: 0.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 64.7rem;
+  background-color: #000000;
+}
+.appointment-am7 .date-time-G7T {
+  width: 11.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 86.2rem;
+  top: 55.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .pm-5-00pm-Aid {
+  width: 30rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 86.2rem;
+  top: 59.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .examplegmailcom-HHT {
+  width: 20.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 86.2rem;
+  top: 65.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .xxxxxxxxx-nk1 {
+  width: 10.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 86.2rem;
+  top: 68.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .line-167-7GV {
+  width: 79.3rem;
+  height: 0;
+  position: absolute;
+  left: 48.8rem;
+  top: 73.65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.appointment-am7 .go-back-rUy {
+  width: 8rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 94.4rem;
+  top: 86.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .arrow-1-NCR {
+  width: 1.9rem;
+  height: 0;
+  position: absolute;
+  left: 92.1rem;
+  top: 87.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.appointment-am7 .rectangle-312-uCM {
+  width: 22.3rem;
+  height: 4.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 106.4rem;
+  top: 85.8rem;
+  background-color: #4ba68f;
+  border-radius: 0.5rem;
+}
+.appointment-am7 .book-appointment-Diq {
+  width: 18.1rem;
+  height: 2.5rem;
+  position: absolute;
+  cursor: pointer;
+  left: 108.5rem;
+  top: 86.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.appointment-am7 .frame-266-LHf {
+  width: 24.4rem;
+  height: 4.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.9rem;
+  top: 16.4rem;
+}
+.appointment-am7 .frame-266-LHf .rectangle-313-rmo {
+  width: 24.3rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #4ba68f;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.0399999991);
+  border-radius: 4rem;
+}
+.appointment-am7 .frame-266-LHf .group-253-AGh {
+  width: 19.3681rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.2091rem;
+  top: 1rem;
+  display: flex;
+  align-items: center;
+}
+.appointment-am7 .frame-266-LHf .group-253-AGh .vector-5uT {
+  margin-right: 0.5634rem;
+  width: 3.0047rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.appointment-am7 .frame-266-LHf .group-253-AGh .admin-dashboard-241 {
+  margin-top: 0.275rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #4ba68f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.appointment-am7 .group-266-9eR {
+  width: 14.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 72.5rem;
+}
+.appointment-am7 .group-266-9eR .group-261-tc1 {
+  width: 10.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.4rem;
+  display: flex;
+  align-items: center;
+}
+.appointment-am7 .group-266-9eR .group-261-tc1 .group-260-EA5 {
+  margin-right: 0.7rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.appointment-am7 .group-266-9eR .group-261-tc1 .sign-out-xrm {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #4ba68f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.appointment-am7 .group-266-9eR .rectangle-315-gXs {
+  width: 14.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #4ba68f;
+  box-sizing: border-box;
+  border-radius: 4rem;
+}
+.appointment-am7 .frame-265-cAd {
+  box-sizing: border-box;
+  padding: 1rem 2.879rem 0.9rem 2.8rem;
+  width: 30.5rem;
+  height: 4.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.9rem;
+  top: 32rem;
+  border: solid 0.1rem #4ba68f;
+  border-radius: 4rem;
+}
+.appointment-am7 .frame-265-cAd .group-256-7dB {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.appointment-am7 .frame-265-cAd .group-256-7dB .vector-UTj {
+  margin-right: 0.302rem;
+  width: 2.8185rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.appointment-am7 .frame-265-cAd .group-256-7dB .emergency-appointment-pXb {
+  margin-bottom: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #359a80;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
